@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/v1.1.0/app-release.apk",
+  "changelog": "• Исправлена ошибка с дублированием сообщений.\n• Добавлена темная тема.\n• Оптимизирована производительность списка курсов."
+}
