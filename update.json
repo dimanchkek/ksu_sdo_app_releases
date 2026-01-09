@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.1.4/sdo-mobile.apk",
-  "changelog": "• Диалог должен открываться с конца."
+  "version": "0.1.5",
+  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.1.5/sdo-mobile.apk",
+  "changelog": "• Добавлен раздел "Оценки" (в верхнем меню при просмотре курса)\n• Добавлена пометки для курсов ("Текущие", "Скрытые", "Избранные")"
 }
