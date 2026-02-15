@@ -1,0 +1,10 @@
+{
+  "version": "0.2.0",
+  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.0/sdo-mobile.apk",
+  "changelog": "• Добавлена локализация на китайский и английский языки",
+  "changelogs": {
+    "ru": "• Добавлена локализация на китайский и английский языки",
+    "en": "• Localization added for Chinese and English languages",
+    "zh": "• 已添加中文和英文本地化支持"
+  }
+}
