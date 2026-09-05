@@ -1,10 +1,10 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.1/sdo-mobile.apk",
-  "changelog": "• Небольшие улучшения в удобстве записи домашнего задания",
+  "version": "0.2.2",
+  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.2/sdo-mobile.apk",
+  "changelog": "• Обновлено расписания на новый учебный год и сделаны небольшие улучшения удобства использования",
   "changelogs": {
     "ru": "• Небольшие улучшения в удобстве записи домашнего задания",
-    "en": "• Minor UI improvements for homework assignment",
-    "zh": "• 对家庭作业提交界面进行了小幅优化"
+    "en": "• The schedule for the new academic year has been updated, and minor usability improvements have been made",
+    "zh": "• 新学年的日程安排已更新，并进行了小幅易用性改进。"
   }
 }
