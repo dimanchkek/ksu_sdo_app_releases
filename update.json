@@ -1,10 +1,10 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.2/sdo-mobile.apk",
-  "changelog": "• ВНИМАНИЕ: обновление на новую версию приложения может быть невозможно. \nУдалите программу полностью, затем установите новую версию по ссылке: https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.2/sdo-mobile.apk \n\n• Обновлено расписания на новый учебный год и сделаны небольшие улучшения удобства использования",
+  "version": "0.2.3",
+  "url": "https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.3/sdo-mobile.apk",
+  "changelog": "• ВНИМАНИЕ: обновление на новую версию приложения может быть невозможно, если у вас старая версия с неработающим расписанием. \nУдалите программу полностью, затем установите новую версию по ссылке: https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.3/sdo-mobile.apk \n\n• Исправлена запись ДЗ, пары разных подгруппы лучше разнесены в интерфейсе",
   "changelogs": {
-    "ru": "• ВНИМАНИЕ: обновление на новую версию приложения может быть невозможно. \nУдалите программу полностью, затем установите новую версию по ссылке: https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.2/sdo-mobile.apk \n\n• Обновлено расписания на новый учебный год и сделаны небольшие улучшения удобства использования",
-    "en": "• WARNING: Updating to the new version of the app may not be possible.\nUninstall the program completely, then install the new version via the link:\nhttps://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.2/sdo-mobile.apk\n\n• Updated schedules for the new academic year and made small usability improvements.",
-    "zh": "• 注意：可能无法将应用更新到新版本。\n请完全卸载该程序，然后通过以下链接安装新版本：\nhttps://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.2/sdo-mobile.apk\n\n• 更新了新学年的课表，并进行了小幅易用性改进。"
+    "ru": "• ВНИМАНИЕ: обновление на новую версию приложения может быть невозможно, если у вас старая версия с неработающим расписанием. \nУдалите программу полностью, затем установите новую версию по ссылке: https://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.3/sdo-mobile.apk \n\n• Исправлена запись ДЗ, пары разных подгруппы лучше разнесены в интерфейсе",
+    "en": "• WARNING: Updating to the new version of the app may not be possible if you have an old version with a broken schedule.\nUninstall the program completely, then install the new version via the link:\nhttps://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.3/sdo-mobile.apk\n\n• Fixed homework recording, class pairs of different subgroups are now better separated in the interface.",
+    "zh": "• 注意：如果您使用的是旧版本且课表已失效，则可能无法更新到新版本。\n请完全卸载该程序，然后通过以下链接安装新版本：\nhttps://github.com/dimanchkek/ksu_sdo_app_releases/releases/download/0.2.3/sdo-mobile.apk\n\n• 修复了作业记录功能，不同子组的课程对在界面中已更好地分离。"
   }
 }
